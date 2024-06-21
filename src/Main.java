@@ -12,7 +12,7 @@ public class Main {
 
             for (int i = index; i < characters.size(); i++) {
                 stage.add(characters.get(i)); //add character to the stage
-                sceneSwap(characters, i + 1); //recursive call!
+                sceneSwap(characters, i + 1); //recursive call! - it prints the stage after adding a character to the second place
                 stage.remove(stage.size() - 1); //remove character from the stage
             }
         }

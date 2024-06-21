@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e571330-b04f-4d7d-8bb3-d5b7c9ab5c60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1e571330-b04f-4d7d-8bb3-d5b7c9ab5c60" name="Changes" comment="Recursion - Quad algorithm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +43,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718984296447</updated>
-      <workItem from="1718984298081" duration="3954000" />
+      <workItem from="1718984298081" duration="4256000" />
     </task>
+    <task id="LOCAL-00001" summary="Recursion - Quad algorithm">
+      <option name="closed" value="true" />
+      <created>1718993923348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718993923348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Recursion - Quad algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion - Quad algorithm" />
   </component>
 </project>
